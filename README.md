@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mayur Salunke</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist | Generative AI | LLM | RAG | Python | NLP | ML Solutions | Statistician | SET | Data Science Educator from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayursalunke0408&label=Profile%20views&color=0e75b6&style=flat" alt="mayursalunke0408" /> </p>
 
-- 🔭 I’m currently working on **Onion Price Prediction using Time series Forecasting**
+- 🔭 I’m currently focusing on end-to-end project lifecycles of Data Science and Generative AI Implementations. 
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently upgrading Gen AI, LLM, RAG, Agentic AI, Azure etc
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
-- 👨‍💻 All of my projects are available at [https://mayursalunke0408.github.io/MyPortfolio/](https://mayursalunke0408.github.io/MyPortfolio/)
-
-- 💬 Ask me about **Python, Flask, Django, Statistics, Machine Learning, Deep Learning, Natural Language Processing, AWS, Power-BI, Tableau, MySQL and etc.**
+- 💬 Ask me about **Python, Flask, Django, Statistics, Machine Learning, Deep Learning, Natural Language Processing, AWS, Power BI, Tableau, MySQL and etc.**
 
 - 📫 How to reach me **mayursalunke2512@gmail.com**
 
