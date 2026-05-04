@@ -1,6 +1,6 @@
 # ✨ Mayur B. Salunke
 
-> 🚀 **Data Scientist & Generative AI Engineer** | Crafting intelligent systems that think autonomously
+> 🚀 **Data Scientist & Generative AI Engineer**
 
 <div align="center">
 
