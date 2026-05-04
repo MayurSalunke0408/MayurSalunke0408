@@ -255,8 +255,6 @@ I believe in:
 
 ## 🌐 Let's Connect!
 
-<div align="center">
-
 I'm always excited to discuss:
 - 🧠 Agentic AI systems and their potential
 - 🔍 RAG architectures and knowledge retrieval
