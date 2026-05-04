@@ -1,143 +1,279 @@
-# Mayur B. Salunke
+# ✨ Mayur B. Salunke
 
-**Data Scientist & Generative AI Engineer**
+> 🚀 **Data Scientist & Generative AI Engineer** | Crafting intelligent systems that think autonomously
 
-📍 Pune, MH | 📧 mayursalunke2512@gmail.com | 📱 +91 9309546122  
+<div align="center">
+
+**Transforming raw data into intelligent AI solutions** 🤖  
+Building production-grade LLM applications & multi-agent orchestration systems
+
+📍 Pune, MH | 📧 [mayursalunke2512@gmail.com](mailto:mayursalunke2512@gmail.com) | 📱 +91 9309546122  
 🔗 [LinkedIn](https://linkedin.com) | 💻 [Github](https://github.com)
 
----
-
-## 🎯 Professional Summary
-
-Data Scientist and Generative AI Engineer with **3.5+ years** of experience designing and deploying production-grade LLM applications, Agentic AI systems, and Retrieval-Augmented Generation (RAG) pipelines. Proven expertise in building scalable AI solutions using **LangGraph**, **LangChain**, and multi-agent orchestration frameworks, with strong foundations in machine learning and statistics (M.Sc. Statistics).
+</div>
 
 ---
 
-## 💼 Core Competencies
+## 🎯 About Me
 
-### Generative AI & LLMs
-- **Agentic AI Systems**: LangGraph, AutoGen, CrewAI
-- **RAG & Advanced Techniques**: Retrieval-Augmented Generation, Agentic RAG
-- **LLM Expertise**: GPT-4, LLaMA, HuggingFace, Ollama
-- **Prompt Engineering** | **Model Context Protocol (MCP)**
+I'm a **Data Scientist and Generative AI Engineer** obsessed with building scalable, intelligent systems. With **3.5+ years** of hands-on experience, I specialize in:
 
-### Machine Learning & Deep Learning
-- Scikit-learn, TensorFlow, Keras
-- Natural Language Processing (NLP)
-- Computer Vision (OpenCV)
-- Time-Series Forecasting (SARIMA)
+- 🧠 **Agentic AI** systems that reason and act autonomously
+- 🔍 **RAG pipelines** that retrieve and reason over complex documents  
+- 🏗️ **Production-grade AI** deployments on cloud infrastructure
+- 📊 **ML at scale** using modern frameworks and best practices
 
-### Cloud & MLOps Infrastructure
-- **AWS**: EC2, S3, SageMaker, Bedrock
-- **Azure**: Azure OpenAI, AI Search, AI Foundry
-- **DevOps**: Docker, MLflow, CI/CD, Model Deployment
-
-### Embeddings & Vector Databases
-- FAISS, ChromaDB, Pinecone
-
-### Tools & Frameworks
-- **Programming**: Python, R, SQL
-- **Web Frameworks**: Flask, Django, FastAPI
-- **Data Visualization**: PowerBI, Tableau, Matplotlib, Seaborn
-- **Development**: Jupyter, VS Code, Streamlit, REST APIs
+*My superpower?* Turning cutting-edge AI research into real-world solutions that drive measurable business impact.
 
 ---
 
-## 🚀 Professional Experience
+## 🛠️ Tech Stack & Expertise
 
-### Data Scientist | **Radiant IT Services** – Pune
-**Aug 2023 – Present**
+<table>
+<tr>
+<td>
 
-- **RAG System Architecture**: Architected & deployed a production RAG system on AWS (EC2 + S3) integrating LangChain, Ollama, and vector databases, reducing document retrieval time by **30%** for daily enterprise operations.
+### 🤖 **Generative AI & LLMs**
+```
+├── Agentic AI Systems
+│   ├── LangGraph
+│   ├── AutoGen
+│   └── CrewAI
+├── RAG & Advanced Techniques
+│   ├── Retrieval-Augmented Generation
+│   └── Agentic RAG
+├── LLM Models
+│   ├── GPT-4
+│   ├── LLaMA
+│   └── HuggingFace
+└── Embeddings & Vector DBs
+    ├── FAISS
+    ├── ChromaDB
+    └── Pinecone
+```
 
-- **LLM-Powered Automation**: Built GPT-4 and LLaMA-based Q&A automation for intelligent document understanding, increasing answer accuracy by **30%** and cutting manual effort significantly.
+</td>
+<td>
 
-- **ML Pipeline Development**: Engineered end-to-end supervised ML pipelines (XGBoost, Random Forest, Scikit-learn) with Power BI dashboards, improving client decision-making accuracy by **25%** across 3 enterprise accounts.
+### 🧬 **ML & Deep Learning**
+```
+├── ML Frameworks
+│   ├── Scikit-learn
+│   ├── XGBoost
+│   └── Random Forest
+├── Deep Learning
+│   ├── TensorFlow
+│   ├── Keras
+│   └── Neural Networks
+├── Specialized
+│   ├── NLP
+│   ├── Computer Vision (OpenCV)
+│   └── Time-Series (SARIMA)
+└── Stats
+    └── Statsmodels
+```
 
-- **Time-Series Forecasting**: Developed SARIMA model for vegetable market price prediction, achieving **15% improvement** in accuracy over baseline.
+</td>
+</tr>
+<tr>
+<td>
 
-- **Team Leadership**: Led cross-functional team of 3 AI developers to deliver automation solutions, boosting operational efficiency by **20%** and meeting all project deadlines.
+### ☁️ **Cloud & DevOps**
+```
+├── AWS
+│   ├── EC2
+│   ├── S3
+│   ├── SageMaker
+│   └── Bedrock
+├── Azure
+│   ├── Azure OpenAI
+│   ├── AI Search
+│   └── AI Foundry
+└── MLOps
+    ├── Docker
+    ├── MLflow
+    └── CI/CD Pipelines
+```
 
-- **EdTech Platform Development**: Built LMS & AMS platforms for Data Science students using Streamlit + Flask, increasing skill acquisition rates by **40%**.
+</td>
+<td>
 
-- **Business Intelligence**: Developed interactive Power BI dashboards for KPI monitoring, increasing stakeholder engagement by **30%**.
+### 💻 **Programming & Tools**
+```
+├── Languages
+│   ├── Python 🐍
+│   ├── R
+│   └── SQL
+├── Web Frameworks
+│   ├── FastAPI
+│   ├── Flask
+│   └── Django
+├── Visualization
+│   ├── Power BI
+│   ├── Tableau
+│   └── Matplotlib
+└── Dev Tools
+    ├── Jupyter
+    ├── VS Code
+    ├── Streamlit
+    └── Git
+```
 
-- **Infrastructure & Deployment**: Deployed AI models using AWS SageMaker & Bedrock; managed infrastructure with Docker, MLflow, and CI/CD pipelines.
-
-- **Agentic AI Evolution**: Evolved production RAG system into Agentic AI architecture using LangGraph, enabling multi-step reasoning, dynamic tool calling, and autonomous document workflows.
-
-### Data Analyst | **InstaDataHelp Analytics** – Bangalore
-**July 2022 – Aug 2023**
-
-- Analyzed real-world datasets using Python, R, SQL, and SAS to extract actionable insights for strategic decision-making.
-- Built Tableau dashboards for stakeholder reporting and data-driven insights.
-- Applied ML and deep learning techniques to model complex patterns and improve predictive accuracy.
-- Designed comprehensive Data Science & Analytics curriculum covering Python, SQL, ML, Deep Learning, and web frameworks.
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Key Projects
+## 💡 Featured Projects
 
-### 1. **RAG Based Document Intelligence System**
-Designed and deployed an end-to-end RAG system enabling intelligent document Q&A with high retrieval accuracy.
+### 🧠 **Multi-Agent Document Intelligence System**
+> *The pinnacle of autonomous document understanding*
 
-**Tech Stack**: Python · LangChain · Ollama · FAISS · Streamlit · AWS EC2/S3
+```
+LangGraph-powered orchestration with specialized agents
+└── 🔍 Document Retrieval Agent
+    ├── FAISS Vector Database Integration
+    └── Semantic Search Capabilities
+└── 💭 Reasoning Agent
+    ├── Multi-step Context Analysis
+    └── Knowledge Synthesis
+└── ✅ Validation Agent
+    ├── Response Quality Assurance
+    └── Fact Verification
+```
 
-**Impact**: Automated intelligent document querying with production-grade performance on cloud infrastructure.
-
----
-
-### 2. **Multi-Agent Document Intelligence System**
-Architected a LangGraph-based multi-agent system with specialized agents for document retrieval, contextual reasoning, and response validation.
-
-**Key Features**:
-- Tool-calling capabilities with FAISS vector database integration
+**✨ Results:**
+- **↑ 40% improvement** in retrieval accuracy vs single-chain RAG
 - Autonomous end-to-end document Q&A workflows
-- **40% improvement** in retrieval accuracy over single-chain RAG baseline
+- Production-ready on AWS EC2/S3
 
-**Tech Stack**: Python · LangChain · LangGraph · Ollama · FAISS · Streamlit · AWS EC2/S3
+**Tech Arsenal:** `Python` • `LangGraph` • `LangChain` • `Ollama` • `FAISS` • `Streamlit` • `AWS`
 
 ---
 
-### 3. **Vegetable Market Price Forecasting**
-Implemented SARIMA time-series model for daily vegetable price prediction with real-time dashboard integration.
+### 🎯 **RAG-Based Document Intelligence System**
+> *Making documents speak for themselves*
 
-**Achievements**:
-- **15% improvement** in prediction accuracy over baseline
-- Live predictions integrated into interactive Power BI dashboard
-- Real-time decision-making support for market stakeholders
+Architected an intelligent document Q&A engine that understands context and retrieves answers with surgical precision.
 
-**Tech Stack**: Python · Statsmodels · SARIMA · Power BI · Streamlit
+**Tech Stack:** `LangChain` • `Ollama` • `FAISS` • `AWS EC2/S3` • `Streamlit`
+
+---
+
+### 📈 **Vegetable Market Price Forecasting**
+> *Predicting the future, one vegetable at a time*
+
+SARIMA time-series model powering real-time market predictions with interactive dashboards for stakeholders.
+
+**Achievements:**
+- **↑ 15% accuracy improvement** over baseline
+- Live predictions dashboard (Power BI)
+- Real-time decision support for market players
+
+**Tech Stack:** `Python` • `Statsmodels` • `Power BI` • `Streamlit`
+
+---
+
+## 🌟 Impact & Metrics
+
+<div align="center">
+
+| 🎯 | **Achievement** | 📊 **Impact** |
+|:---:|:---|:---|
+| 🚀 | Document Retrieval Optimization | ↓ **30%** faster retrieval |
+| 🎯 | Answer Quality Enhancement | ↑ **30%** accuracy improvement |
+| 📊 | Business Intelligence | ↑ **25%** better decision-making |
+| 🔮 | Predictive Modeling | ↑ **15%** forecast accuracy |
+| ⚙️ | Operational Efficiency | ↑ **20%** efficiency boost |
+| 🎓 | EdTech Platform Impact | ↑ **40%** skill acquisition |
+| 👥 | Stakeholder Engagement | ↑ **30%** engagement increase |
+| 🧠 | Multi-Agent Retrieval | ↑ **40%** accuracy vs baseline |
+
+</div>
+
+---
+
+## 💼 Professional Journey
+
+### **Data Scientist** @ Radiant IT Services
+**Aug 2023 – Present** | 📍 Pune
+
+<details>
+<summary>🔍 <b>What I'm Building</b></summary>
+
+- 🏗️ **Production RAG Systems** — Document understanding at scale with LangChain + Ollama
+- 🤖 **Agentic AI Architectures** — Multi-agent systems using LangGraph for autonomous workflows
+- 📊 **ML Pipelines** — End-to-end supervised learning (XGBoost, Random Forest) with Power BI dashboards
+- 🔮 **Time-Series Forecasting** — SARIMA models for market price predictions
+- 👨‍💼 **Team Leadership** — Orchestrating 3 AI developers to deliver cutting-edge solutions
+- 🎓 **EdTech Innovation** — Building LMS/AMS platforms with Streamlit + Flask
+- ☁️ **Cloud Deployment** — AWS SageMaker, Bedrock, Docker, MLflow, CI/CD excellence
+
+</details>
+
+---
+
+### **Data Analyst** @ InstaDataHelp Analytics
+**July 2022 – Aug 2023** | 📍 Bangalore
+
+<details>
+<summary>🔍 <b>What I Accomplished</b></summary>
+
+- 📉 Analyzed real-world datasets using Python, R, SQL, and SAS
+- 📊 Built Tableau dashboards for data-driven storytelling
+- 🧬 Applied ML & deep learning for pattern recognition
+- 🎯 Designed comprehensive Data Science curriculum
+
+</details>
 
 ---
 
 ## 🎓 Education
 
-### M.Sc. Statistics
-**Shivaji University, Kolhapur** | Dec 2020 – May 2022  
-Marks: **73.13%**
+<div align="center">
 
-### B.Sc. Statistics
-**Savitribai Phule Pune University** | May 2017 – June 2020  
-Marks: **74.94%**
+| 🏆 | **Degree** | 🏫 | **University** | 📅 | **Period** | 📈 | **Grade** |
+|:---:|:---|:---:|:---|:---:|:---|:---:|:---|
+| 🎯 | M.Sc. Statistics | 🏫 | Shivaji University, Kolhapur | 📅 | Dec 2020 – May 2022 | 📈 | **73.13%** |
+| 🎯 | B.Sc. Statistics | 🏫 | Savitribai Phule Pune University | 📅 | May 2017 – June 2020 | 📈 | **74.94%** |
 
----
-
-## 📊 Key Metrics & Achievements
-
-| Metric | Achievement |
-|--------|-------------|
-| **Document Retrieval Time** | ↓ 30% reduction |
-| **Answer Accuracy** | ↑ 30% improvement |
-| **Decision-Making Accuracy** | ↑ 25% improvement |
-| **Forecasting Accuracy** | ↑ 15% improvement |
-| **Operational Efficiency** | ↑ 20% boost |
-| **Skill Acquisition** | ↑ 40% increase |
-| **Stakeholder Engagement** | ↑ 30% increase |
-| **Retrieval Accuracy (Multi-Agent)** | ↑ 40% vs baseline |
+</div>
 
 ---
 
-## 🔗 Let's Connect
+## 🎨 Philosophy
 
-I'm passionate about building scalable AI solutions and exploring the cutting edge of LLMs and agentic systems. Feel free to reach out for collaboration, discussion, or opportunities in AI/ML.
+> "The best AI systems are invisible—they work so seamlessly that people forget there's intelligence behind them."
+
+I believe in:
+- ✨ **Elegant solutions** to complex problems
+- 🔬 **Evidence-driven** decision making
+- 🚀 **Production-first** mindset (not just notebooks)
+- 🤝 **Collaborative** problem-solving
+- 📈 **Measurable impact** on business outcomes
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+I'm always excited to discuss:
+- 🧠 Agentic AI systems and their potential
+- 🔍 RAG architectures and knowledge retrieval
+- 🚀 Scaling ML models to production
+- 🤝 Building intelligent data products
+- 📚 Latest research in generative AI
+
+**Drop me a message or connect on LinkedIn!**
+
+[📧 Email](mailto:mayursalunke2512@gmail.com) • [🔗 LinkedIn](https://linkedin.com) • [💻 GitHub](https://github.com)
+
+---
+
+<div align="center">
+
+### 🌟 _"Building the future, one intelligent system at a time"_ ⚡
+
+</div>
