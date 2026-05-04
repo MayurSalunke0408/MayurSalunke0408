@@ -23,8 +23,6 @@ I'm a **Data Scientist and Generative AI Engineer** obsessed with building scala
 - 🏗️ **Production-grade AI** deployments on cloud infrastructure
 - 📊 **ML at scale** using modern frameworks and best practices
 
-*My superpower?* Turning cutting-edge AI research into real-world solutions that drive measurable business impact.
-
 ---
 
 ## 🛠️ Tech Stack & Expertise
