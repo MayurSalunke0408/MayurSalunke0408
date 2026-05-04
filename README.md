@@ -1,23 +1,143 @@
-<h1 align="center">Hi 👋, I'm Mayur Salunke</h1>
-<h3 align="center">A passionate Data Scientist | Generative AI | LLM | RAG | Python | NLP | ML Solutions | Statistician | SET | Data Science Educator from India </h3>
+# Mayur B. Salunke
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayursalunke0408&label=Profile%20views&color=0e75b6&style=flat" alt="mayursalunke0408" /> </p>
+**Data Scientist & Generative AI Engineer**
 
-- 🔭 I’m currently focusing on end-to-end project lifecycles of Data Science and Generative AI Implementations. 
+📍 Pune, MH | 📧 mayursalunke2512@gmail.com | 📱 +91 9309546122  
+🔗 [LinkedIn](https://linkedin.com) | 💻 [Github](https://github.com)
 
-- 🌱 I’m currently upgrading Gen AI, LLM, RAG, Agentic AI, Azure etc
+---
 
-- 👯 I’m looking to collaborate on **Data Science Projects**
+## 🎯 Professional Summary
 
-- 💬 Ask me about **Python, Flask, Django, Statistics, Machine Learning, Deep Learning, Natural Language Processing, AWS, Power BI, Tableau, MySQL and etc.**
+Data Scientist and Generative AI Engineer with **3.5+ years** of experience designing and deploying production-grade LLM applications, Agentic AI systems, and Retrieval-Augmented Generation (RAG) pipelines. Proven expertise in building scalable AI solutions using **LangGraph**, **LangChain**, and multi-agent orchestration frameworks, with strong foundations in machine learning and statistics (M.Sc. Statistics).
 
-- 📫 How to reach me **mayursalunke2512@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayursalunke04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayursalunke04/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mayursalunke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mayursalunke" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mayursalunke2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mayursalunke2512" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 💼 Core Competencies
+
+### Generative AI & LLMs
+- **Agentic AI Systems**: LangGraph, AutoGen, CrewAI
+- **RAG & Advanced Techniques**: Retrieval-Augmented Generation, Agentic RAG
+- **LLM Expertise**: GPT-4, LLaMA, HuggingFace, Ollama
+- **Prompt Engineering** | **Model Context Protocol (MCP)**
+
+### Machine Learning & Deep Learning
+- Scikit-learn, TensorFlow, Keras
+- Natural Language Processing (NLP)
+- Computer Vision (OpenCV)
+- Time-Series Forecasting (SARIMA)
+
+### Cloud & MLOps Infrastructure
+- **AWS**: EC2, S3, SageMaker, Bedrock
+- **Azure**: Azure OpenAI, AI Search, AI Foundry
+- **DevOps**: Docker, MLflow, CI/CD, Model Deployment
+
+### Embeddings & Vector Databases
+- FAISS, ChromaDB, Pinecone
+
+### Tools & Frameworks
+- **Programming**: Python, R, SQL
+- **Web Frameworks**: Flask, Django, FastAPI
+- **Data Visualization**: PowerBI, Tableau, Matplotlib, Seaborn
+- **Development**: Jupyter, VS Code, Streamlit, REST APIs
+
+---
+
+## 🚀 Professional Experience
+
+### Data Scientist | **Radiant IT Services** – Pune
+**Aug 2023 – Present**
+
+- **RAG System Architecture**: Architected & deployed a production RAG system on AWS (EC2 + S3) integrating LangChain, Ollama, and vector databases, reducing document retrieval time by **30%** for daily enterprise operations.
+
+- **LLM-Powered Automation**: Built GPT-4 and LLaMA-based Q&A automation for intelligent document understanding, increasing answer accuracy by **30%** and cutting manual effort significantly.
+
+- **ML Pipeline Development**: Engineered end-to-end supervised ML pipelines (XGBoost, Random Forest, Scikit-learn) with Power BI dashboards, improving client decision-making accuracy by **25%** across 3 enterprise accounts.
+
+- **Time-Series Forecasting**: Developed SARIMA model for vegetable market price prediction, achieving **15% improvement** in accuracy over baseline.
+
+- **Team Leadership**: Led cross-functional team of 3 AI developers to deliver automation solutions, boosting operational efficiency by **20%** and meeting all project deadlines.
+
+- **EdTech Platform Development**: Built LMS & AMS platforms for Data Science students using Streamlit + Flask, increasing skill acquisition rates by **40%**.
+
+- **Business Intelligence**: Developed interactive Power BI dashboards for KPI monitoring, increasing stakeholder engagement by **30%**.
+
+- **Infrastructure & Deployment**: Deployed AI models using AWS SageMaker & Bedrock; managed infrastructure with Docker, MLflow, and CI/CD pipelines.
+
+- **Agentic AI Evolution**: Evolved production RAG system into Agentic AI architecture using LangGraph, enabling multi-step reasoning, dynamic tool calling, and autonomous document workflows.
+
+### Data Analyst | **InstaDataHelp Analytics** – Bangalore
+**July 2022 – Aug 2023**
+
+- Analyzed real-world datasets using Python, R, SQL, and SAS to extract actionable insights for strategic decision-making.
+- Built Tableau dashboards for stakeholder reporting and data-driven insights.
+- Applied ML and deep learning techniques to model complex patterns and improve predictive accuracy.
+- Designed comprehensive Data Science & Analytics curriculum covering Python, SQL, ML, Deep Learning, and web frameworks.
+
+---
+
+## 🏆 Key Projects
+
+### 1. **RAG Based Document Intelligence System**
+Designed and deployed an end-to-end RAG system enabling intelligent document Q&A with high retrieval accuracy.
+
+**Tech Stack**: Python · LangChain · Ollama · FAISS · Streamlit · AWS EC2/S3
+
+**Impact**: Automated intelligent document querying with production-grade performance on cloud infrastructure.
+
+---
+
+### 2. **Multi-Agent Document Intelligence System**
+Architected a LangGraph-based multi-agent system with specialized agents for document retrieval, contextual reasoning, and response validation.
+
+**Key Features**:
+- Tool-calling capabilities with FAISS vector database integration
+- Autonomous end-to-end document Q&A workflows
+- **40% improvement** in retrieval accuracy over single-chain RAG baseline
+
+**Tech Stack**: Python · LangChain · LangGraph · Ollama · FAISS · Streamlit · AWS EC2/S3
+
+---
+
+### 3. **Vegetable Market Price Forecasting**
+Implemented SARIMA time-series model for daily vegetable price prediction with real-time dashboard integration.
+
+**Achievements**:
+- **15% improvement** in prediction accuracy over baseline
+- Live predictions integrated into interactive Power BI dashboard
+- Real-time decision-making support for market stakeholders
+
+**Tech Stack**: Python · Statsmodels · SARIMA · Power BI · Streamlit
+
+---
+
+## 🎓 Education
+
+### M.Sc. Statistics
+**Shivaji University, Kolhapur** | Dec 2020 – May 2022  
+Marks: **73.13%**
+
+### B.Sc. Statistics
+**Savitribai Phule Pune University** | May 2017 – June 2020  
+Marks: **74.94%**
+
+---
+
+## 📊 Key Metrics & Achievements
+
+| Metric | Achievement |
+|--------|-------------|
+| **Document Retrieval Time** | ↓ 30% reduction |
+| **Answer Accuracy** | ↑ 30% improvement |
+| **Decision-Making Accuracy** | ↑ 25% improvement |
+| **Forecasting Accuracy** | ↑ 15% improvement |
+| **Operational Efficiency** | ↑ 20% boost |
+| **Skill Acquisition** | ↑ 40% increase |
+| **Stakeholder Engagement** | ↑ 30% increase |
+| **Retrieval Accuracy (Multi-Agent)** | ↑ 40% vs baseline |
+
+---
+
+## 🔗 Let's Connect
+
+I'm passionate about building scalable AI solutions and exploring the cutting edge of LLMs and agentic systems. Feel free to reach out for collaboration, discussion, or opportunities in AI/ML.
