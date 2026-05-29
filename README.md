@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="mailto:mayursalunke2512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mayursalunke&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
+  <a href="https://www.linkedin.com/in/mayursalunke04/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MayurSalunke0408"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MayurSalunke0408&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 </p>
 
 </div>
@@ -116,6 +116,21 @@ class MayurSalunke:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayurSalunke0408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurSalunke0408&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayurSalunke0408&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+
 ## 💼 Experience Timeline
 
 ```
@@ -151,7 +166,7 @@ class MayurSalunke:
 
 [![Email](https://img.shields.io/badge/Email-mayursalunke2512%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayursalunke2512@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209309546122-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919309546122)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/mayursalunke04/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayursalunke04/)
 
 </div>
 
