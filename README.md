@@ -8,7 +8,7 @@
 Building production-grade LLM applications & multi-agent orchestration systems
 
 📍 Pune, MH | 📧 [mayursalunke2512@gmail.com](mailto:mayursalunke2512@gmail.com) | 📱 +91 9309546122  
-🔗 [LinkedIn](https://linkedin.com) | 💻 [Github](https://github.com)
+🔗 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/mayursalunke04/))
 
 </div>
 
