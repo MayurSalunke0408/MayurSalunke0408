@@ -151,7 +151,7 @@ class MayurSalunke:
 
 [![Email](https://img.shields.io/badge/Email-mayursalunke2512%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayursalunke2512@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209309546122-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919309546122)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/mayursalunke04/))
 
 </div>
 
