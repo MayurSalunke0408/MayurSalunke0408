@@ -133,13 +133,19 @@ Developed a production-grade forecasting pipeline with statistical, ML, and deep
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayurSalunke0408&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Mayur's GitHub stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurSalunke0408&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Mayur's top languages"/>
+<a href="https://github.com/MayurSalunke0408">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayurSalunke0408&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" alt="Mayur's GitHub stats"/>
+</a>
+<a href="https://github.com/MayurSalunke0408">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayurSalunke0408&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="Mayur's top languages"/>
+</a>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayurSalunke0408&theme=tokyonight&hide_border=true&background=0d1117" alt="Mayur's GitHub streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MayurSalunke0408&theme=tokyonight&hide_border=true&background=0D1117" alt="Mayur's GitHub streak"/>
+  </a>
 </div>
 
 ---
